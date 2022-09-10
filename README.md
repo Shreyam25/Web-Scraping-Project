@@ -1,2 +1,6 @@
-# A FIFO WEBSIE SCRAPPING PROJECT
-#### Libraries : Pandas,Numpy BeautifulSoup,Requests
+## A FIFO WEBSIETE SCRAPPING PROJECT
+#### Libraries :
+- Pandas
+- Numpy
+- BeautifulSoup
+- Requests
